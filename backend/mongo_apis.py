@@ -9,9 +9,9 @@ import re
 from passlib.context import CryptContext
 
 # === API KEYS & URLs ===
-COHERE_API_KEY = "sNvH7BXlEGHdhomPtEalgqEGRJZiQxnMEEV2pEsX"
+COHERE_API_KEY = "COHERE API KEY"
 COHERE_API_URL = "https://api.cohere.ai/v1/chat"
-SERP_API_KEY = "68ad7d52c518c9e05af9698a722827845c34a11c0771ab5e97099427c64f609a"
+SERP_API_KEY = "SERP API KEY"
 SERP_API_URL = "https://serpapi.com/search"
 
 HEADERS = {
