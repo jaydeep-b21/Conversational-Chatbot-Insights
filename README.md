@@ -14,6 +14,16 @@ This project is a **Conversational Chatbot** built with **FastAPI**, integrated 
   - Rewrites vague queries using the LLM for precise web searches.
 - **CORS Support**: Configured for frontend integration (e.g., a React app running on `http://localhost:3000`).
 
+---
+
+##  Demo
+
+![Demo](Conversational%20Chatbot%20Insights/demo/intellivus_chat_gif1.gif)
+
+> _A walkthrough of how the Conversational AI Intellivus, showcases real-time responses, web search, user login and chat history features_
+
+---
+
 ## Prerequisites
 
 - **Python 3.11+**
