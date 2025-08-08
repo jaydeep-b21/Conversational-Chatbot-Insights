@@ -18,7 +18,7 @@ This project is a **Conversational Chatbot** built with **FastAPI**, integrated 
 
 ##  Demo
 
-![Demo](Conversational%20Chatbot%20Insights/demo/intellivus_chat_gif1.gif)
+![Demo](demo/intellivus_chat_gif1.gif)
 
 > _A walkthrough of how the Conversational AI Intellivus, showcases real-time responses, web search, user login and chat history features_
 
